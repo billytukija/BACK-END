@@ -1,0 +1,14 @@
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\bin\Debug\netcoreapp2.1\api.test.deps.json
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\bin\Debug\netcoreapp2.1\api.test.runtimeconfig.json
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\bin\Debug\netcoreapp2.1\api.test.runtimeconfig.dev.json
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\bin\Debug\netcoreapp2.1\api.test.dll
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\bin\Debug\netcoreapp2.1\api.test.pdb
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\obj\Debug\netcoreapp2.1\api.test.csprojAssemblyReference.cache
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\obj\Debug\netcoreapp2.1\api.test.csproj.CoreCompileInputs.cache
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\obj\Debug\netcoreapp2.1\api.test.RazorAssemblyInfo.cache
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\obj\Debug\netcoreapp2.1\api.test.RazorAssemblyInfo.cs
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\obj\Debug\netcoreapp2.1\api.test.AssemblyInfoInputs.cache
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\obj\Debug\netcoreapp2.1\api.test.AssemblyInfo.cs
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\obj\Debug\netcoreapp2.1\api.test.RazorTargetAssemblyInfo.cache
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\obj\Debug\netcoreapp2.1\api.test.dll
+C:\Users\Billy Tukija\Documents\BPF\api.test\api.test\obj\Debug\netcoreapp2.1\api.test.pdb

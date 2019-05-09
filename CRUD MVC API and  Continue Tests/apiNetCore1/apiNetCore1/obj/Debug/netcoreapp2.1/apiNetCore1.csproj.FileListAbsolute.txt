@@ -1,0 +1,15 @@
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\bin\Debug\netcoreapp2.1\apiNetCore1.deps.json
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\bin\Debug\netcoreapp2.1\apiNetCore1.runtimeconfig.json
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\bin\Debug\netcoreapp2.1\apiNetCore1.runtimeconfig.dev.json
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\bin\Debug\netcoreapp2.1\apiNetCore1.dll
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\bin\Debug\netcoreapp2.1\apiNetCore1.pdb
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\obj\Debug\netcoreapp2.1\apiNetCore1.csprojAssemblyReference.cache
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\obj\Debug\netcoreapp2.1\apiNetCore1.csproj.CoreCompileInputs.cache
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\obj\Debug\netcoreapp2.1\apiNetCore1.RazorAssemblyInfo.cache
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\obj\Debug\netcoreapp2.1\apiNetCore1.RazorAssemblyInfo.cs
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\obj\Debug\netcoreapp2.1\apiNetCore1.AssemblyInfoInputs.cache
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\obj\Debug\netcoreapp2.1\apiNetCore1.AssemblyInfo.cs
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\obj\Debug\netcoreapp2.1\apiNetCore1.RazorTargetAssemblyInfo.cache
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\obj\Debug\netcoreapp2.1\apiNetCore1.dll
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\obj\Debug\netcoreapp2.1\apiNetCore1.pdb
+C:\Users\Billy Tukija\Documents\BPF\apiNetCore1\apiNetCore1\bin\Debug\netcoreapp2.1\apiNetCore1.xml
