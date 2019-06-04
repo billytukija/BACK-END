@@ -56,7 +56,7 @@ namespace tradicionalGetAndSet
                 set
                 {
                     if (this._balance < 0)
-                        throw new BalanceNegativeException("");
+                        throw new BalanceNegativeException(GetEnumDescription(AccountErrorsMessages.BalanceNegative));
                 }
              }
 
