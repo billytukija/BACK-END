@@ -22,6 +22,8 @@ namespace dataTypes
         public static void Bend(DataByRef pos) {
             pos.X = pos.X * 2;
         }
+		
+		
 
         static void Main(string[] args)
         {
