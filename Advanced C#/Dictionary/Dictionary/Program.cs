@@ -21,9 +21,11 @@ namespace Dictionary
 
             var r1 = new Request() { Number = 1, Client = "Billy", Value = 110.55 };
             var r2 = new Request() { Number = 2, Client = "Richard", Value = 110.55 };
+            var r3 = new Request() { Number = 3, Client = "Tukija", Value = 114.55 };
 
             requests.Add(r1.Client.Substring(0, 3) + r1.Number, r1);
             requests.Add(r2.Client.Substring(0, 3) + r2.Number, r2);
+            requests.Add(r3.Client.Substring(0, 3) + r3.Number, r3);
 
             foreach (var item in requests.Values)
                 Console.WriteLine(item.Client);
